@@ -7,7 +7,7 @@ on:
 
 jobs:
   publish-release:
-    if: github.repository == 'k1tbyte/Wand-Enhancer'
+    if: github.repository == 'mahadi22/Wand-Enhancer-shin'
     runs-on: windows-latest
     permissions:
       contents: write
